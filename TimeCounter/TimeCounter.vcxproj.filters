@@ -32,5 +32,8 @@
     <ClInclude Include="Utils\EventLogger.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Paths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

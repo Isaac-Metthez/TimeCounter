@@ -137,6 +137,7 @@
     <ClCompile Include="Utils\EventLogger.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Paths.h" />
     <ClInclude Include="Utils\EventLogger.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
